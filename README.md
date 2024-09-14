@@ -1,10 +1,12 @@
-  _______  __   __  _______  _______  _______  ______  
- |       ||  | |  ||       ||       ||       ||    _ | 
- |    ___||  | |  ||    ___||  _____||_     _||   | || 
- |   |___ |  |_|  ||   |___ | |_____   |   |  |   |_||_
- |    ___||       ||    ___||_____  |  |   |  |    __  |
- |   |___ |       ||   |___  _____| |  |   |  |   |  | |    
- |_______||_______||_______||_______|  |___|  |___|  |_|
+
+______                    _   _  _             _        
+| ___ \                  | | | |(_)           | |       
+| |_/ /  ___  _ __ ___   | | | | _  _ __    __| |  ___  
+| ___ \ / _ \| '_ ` _ \  | | | || || '_ \  / _` | / _ \ 
+| |_/ /|  __/| | | | | | \ \_/ /| || | | || (_| || (_) |
+\____/  \___||_| |_| |_|  \___/ |_||_| |_| \__,_| \___/ 
+                                                        
+
 
 ## 💎 Sistema Cristalino 💎
 
@@ -12,10 +14,10 @@
 
 ## 🤖 Tecnologias:
 
-- ☕ **Java** Spring Framework.
-- 🎲 **MySql** para armazenar os dados.
-- 💻 **HTML CSS Javascript / Jquery** para o desenvolvimento das paginas.
-- 😎 **Bootstrap** para estilização das paginas.
+- ☕ **Java:** Spring Framework.
+- 🎲 **MySql:** para armazenar os dados.
+- 💻 **HTML CSS Javascript / Jquery:** para o desenvolvimento das paginas.
+- 😎 **Bootstrap:** para estilização das paginas.
 
 ## 👨🏾‍💻 Time: 
 
@@ -29,11 +31,11 @@ para auxiliar no gerenciamento de clientes e produtos de salões de manicure �
 
 ## 🛠️ Funcionalidades
 
-- 📝 **Cadastros** de todos os produtos.
-- 🗒️ **Listagens** com visualização de dados em tempo real.
-- 🔍 **Filtragens** De acordo com o que for inserido no campo de pesquisa.
-- 🌐 **Responsividade** para dispositivos móveis.
-- 💹 **Financeiro** Gerenciamento de receitas e despesas.
+- 📝 **Cadastros:** de todos os produtos.
+- 🗒️ **Listagens:** com visualização de dados em tempo real.
+- 🔍 **Filtragens:** De acordo com o que for inserido no campo de pesquisa.
+- 🌐 **Responsividade:** para dispositivos móveis.
+- 💹 **Financeiro:** Gerenciamento de receitas e despesas.
 
 
 
